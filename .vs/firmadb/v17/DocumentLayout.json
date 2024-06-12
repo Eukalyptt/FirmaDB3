@@ -1,0 +1,313 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kasutaja\\Desktop\\firmadb3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C89D0BB-751E-4D32-9B87-E504DA31908A}|firmadb\\firmadb.csproj|c:\\users\\kasutaja\\desktop\\firmadb3\\firmadb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0C89D0BB-751E-4D32-9B87-E504DA31908A}|firmadb\\firmadb.csproj|solutionrelative:firmadb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C89D0BB-751E-4D32-9B87-E504DA31908A}|firmadb\\firmadb.csproj|c:\\users\\kasutaja\\desktop\\firmadb3\\firmadb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C89D0BB-751E-4D32-9B87-E504DA31908A}|firmadb\\firmadb.csproj|solutionrelative:firmadb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C89D0BB-751E-4D32-9B87-E504DA31908A}|firmadb\\firmadb.csproj|c:\\users\\kasutaja\\desktop\\firmadb3\\firmadb\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C89D0BB-751E-4D32-9B87-E504DA31908A}|firmadb\\firmadb.csproj|solutionrelative:firmadb\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C89D0BB-751E-4D32-9B87-E504DA31908A}|firmadb\\firmadb.csproj|c:\\users\\kasutaja\\desktop\\firmadb3\\firmadb\\models\\tervisekontroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C89D0BB-751E-4D32-9B87-E504DA31908A}|firmadb\\firmadb.csproj|solutionrelative:firmadb\\models\\tervisekontroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C89D0BB-751E-4D32-9B87-E504DA31908A}|firmadb\\firmadb.csproj|c:\\users\\kasutaja\\desktop\\firmadb3\\firmadb\\models\\puhkep\u00E4evad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C89D0BB-751E-4D32-9B87-E504DA31908A}|firmadb\\firmadb.csproj|solutionrelative:firmadb\\models\\puhkep\u00E4evad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C89D0BB-751E-4D32-9B87-E504DA31908A}|firmadb\\firmadb.csproj|c:\\users\\kasutaja\\desktop\\firmadb3\\firmadb\\models\\ligip\u00E4\u00E4suluba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C89D0BB-751E-4D32-9B87-E504DA31908A}|firmadb\\firmadb.csproj|solutionrelative:firmadb\\models\\ligip\u00E4\u00E4suluba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C89D0BB-751E-4D32-9B87-E504DA31908A}|firmadb\\firmadb.csproj|c:\\users\\kasutaja\\desktop\\firmadb3\\firmadb\\models\\lapsevanem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C89D0BB-751E-4D32-9B87-E504DA31908A}|firmadb\\firmadb.csproj|solutionrelative:firmadb\\models\\lapsevanem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C89D0BB-751E-4D32-9B87-E504DA31908A}|firmadb\\firmadb.csproj|c:\\users\\kasutaja\\desktop\\firmadb3\\firmadb\\models\\lapsed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C89D0BB-751E-4D32-9B87-E504DA31908A}|firmadb\\firmadb.csproj|solutionrelative:firmadb\\models\\lapsed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C89D0BB-751E-4D32-9B87-E504DA31908A}|firmadb\\firmadb.csproj|c:\\users\\kasutaja\\desktop\\firmadb3\\firmadb\\models\\laenutus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C89D0BB-751E-4D32-9B87-E504DA31908A}|firmadb\\firmadb.csproj|solutionrelative:firmadb\\models\\laenutus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C89D0BB-751E-4D32-9B87-E504DA31908A}|firmadb\\firmadb.csproj|c:\\users\\kasutaja\\desktop\\firmadb3\\firmadb\\models\\laenutatavadasjad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C89D0BB-751E-4D32-9B87-E504DA31908A}|firmadb\\firmadb.csproj|solutionrelative:firmadb\\models\\laenutatavadasjad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C89D0BB-751E-4D32-9B87-E504DA31908A}|firmadb\\firmadb.csproj|c:\\users\\kasutaja\\desktop\\firmadb3\\firmadb\\models\\haigusleht.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C89D0BB-751E-4D32-9B87-E504DA31908A}|firmadb\\firmadb.csproj|solutionrelative:firmadb\\models\\haigusleht.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C89D0BB-751E-4D32-9B87-E504DA31908A}|firmadb\\firmadb.csproj|c:\\users\\kasutaja\\desktop\\firmadb3\\firmadb\\models\\frima.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C89D0BB-751E-4D32-9B87-E504DA31908A}|firmadb\\firmadb.csproj|solutionrelative:firmadb\\models\\frima.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C89D0BB-751E-4D32-9B87-E504DA31908A}|firmadb\\firmadb.csproj|c:\\users\\kasutaja\\desktop\\firmadb3\\firmadb\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C89D0BB-751E-4D32-9B87-E504DA31908A}|firmadb\\firmadb.csproj|solutionrelative:firmadb\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C89D0BB-751E-4D32-9B87-E504DA31908A}|firmadb\\firmadb.csproj|c:\\users\\kasutaja\\desktop\\firmadb3\\firmadb\\models\\ametinimetus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C89D0BB-751E-4D32-9B87-E504DA31908A}|firmadb\\firmadb.csproj|solutionrelative:firmadb\\models\\ametinimetus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C89D0BB-751E-4D32-9B87-E504DA31908A}|firmadb\\firmadb.csproj|c:\\users\\kasutaja\\desktop\\firmadb3\\firmadb\\migrations\\20240612110256_relationupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C89D0BB-751E-4D32-9B87-E504DA31908A}|firmadb\\firmadb.csproj|solutionrelative:firmadb\\migrations\\20240612110256_relationupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C89D0BB-751E-4D32-9B87-E504DA31908A}|firmadb\\firmadb.csproj|c:\\users\\kasutaja\\desktop\\firmadb3\\firmadb\\migrations\\20240612101001_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C89D0BB-751E-4D32-9B87-E504DA31908A}|firmadb\\firmadb.csproj|solutionrelative:firmadb\\migrations\\20240612101001_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C89D0BB-751E-4D32-9B87-E504DA31908A}|firmadb\\firmadb.csproj|c:\\users\\kasutaja\\desktop\\firmadb3\\firmadb\\migrations\\20240612112711_update2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C89D0BB-751E-4D32-9B87-E504DA31908A}|firmadb\\firmadb.csproj|solutionrelative:firmadb\\migrations\\20240612112711_update2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C89D0BB-751E-4D32-9B87-E504DA31908A}|firmadb\\firmadb.csproj|c:\\users\\kasutaja\\desktop\\firmadb3\\firmadb\\migrations\\20240612112333_teinepc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C89D0BB-751E-4D32-9B87-E504DA31908A}|firmadb\\firmadb.csproj|solutionrelative:firmadb\\migrations\\20240612112333_teinepc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ligip\u00E4\u00E4suluba.cs",
+              "DocumentMoniker": "C:\\Users\\Kasutaja\\Desktop\\firmadb3\\firmadb\\Models\\Ligip\u00E4\u00E4suluba.cs",
+              "RelativeDocumentMoniker": "firmadb\\Models\\Ligip\u00E4\u00E4suluba.cs",
+              "ToolTip": "C:\\Users\\Kasutaja\\Desktop\\firmadb3\\firmadb\\Models\\Ligip\u00E4\u00E4suluba.cs",
+              "RelativeToolTip": "firmadb\\Models\\Ligip\u00E4\u00E4suluba.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:46:36.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Puhkep\u00E4evad.cs",
+              "DocumentMoniker": "C:\\Users\\Kasutaja\\Desktop\\firmadb3\\firmadb\\Models\\Puhkep\u00E4evad.cs",
+              "RelativeDocumentMoniker": "firmadb\\Models\\Puhkep\u00E4evad.cs",
+              "ToolTip": "C:\\Users\\Kasutaja\\Desktop\\firmadb3\\firmadb\\Models\\Puhkep\u00E4evad.cs",
+              "RelativeToolTip": "firmadb\\Models\\Puhkep\u00E4evad.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:44:10.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tervisekontroll.cs",
+              "DocumentMoniker": "C:\\Users\\Kasutaja\\Desktop\\firmadb3\\firmadb\\Models\\Tervisekontroll.cs",
+              "RelativeDocumentMoniker": "firmadb\\Models\\Tervisekontroll.cs",
+              "ToolTip": "C:\\Users\\Kasutaja\\Desktop\\firmadb3\\firmadb\\Models\\Tervisekontroll.cs",
+              "RelativeToolTip": "firmadb\\Models\\Tervisekontroll.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:37:57.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Kasutaja\\Desktop\\firmadb3\\firmadb\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "firmadb\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Kasutaja\\Desktop\\firmadb3\\firmadb\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "firmadb\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:47:28.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kasutaja\\Desktop\\firmadb3\\firmadb\\Program.cs",
+              "RelativeDocumentMoniker": "firmadb\\Program.cs",
+              "ToolTip": "C:\\Users\\Kasutaja\\Desktop\\firmadb3\\firmadb\\Program.cs",
+              "RelativeToolTip": "firmadb\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T10:03:26.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Kasutaja\\Desktop\\firmadb3\\firmadb\\appsettings.json",
+              "RelativeDocumentMoniker": "firmadb\\appsettings.json",
+              "ToolTip": "C:\\Users\\Kasutaja\\Desktop\\firmadb3\\firmadb\\appsettings.json",
+              "RelativeToolTip": "firmadb\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-12T09:48:18.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Lapsevanem.cs",
+              "DocumentMoniker": "C:\\Users\\Kasutaja\\Desktop\\firmadb3\\firmadb\\Models\\Lapsevanem.cs",
+              "RelativeDocumentMoniker": "firmadb\\Models\\Lapsevanem.cs",
+              "ToolTip": "C:\\Users\\Kasutaja\\Desktop\\firmadb3\\firmadb\\Models\\Lapsevanem.cs",
+              "RelativeToolTip": "firmadb\\Models\\Lapsevanem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:46:03.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Lapsed.cs",
+              "DocumentMoniker": "C:\\Users\\Kasutaja\\Desktop\\firmadb3\\firmadb\\Models\\Lapsed.cs",
+              "RelativeDocumentMoniker": "firmadb\\Models\\Lapsed.cs",
+              "ToolTip": "C:\\Users\\Kasutaja\\Desktop\\firmadb3\\firmadb\\Models\\Lapsed.cs",
+              "RelativeToolTip": "firmadb\\Models\\Lapsed.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:45:33.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Laenutus.cs",
+              "DocumentMoniker": "C:\\Users\\Kasutaja\\Desktop\\firmadb3\\firmadb\\Models\\Laenutus.cs",
+              "RelativeDocumentMoniker": "firmadb\\Models\\Laenutus.cs",
+              "ToolTip": "C:\\Users\\Kasutaja\\Desktop\\firmadb3\\firmadb\\Models\\Laenutus.cs",
+              "RelativeToolTip": "firmadb\\Models\\Laenutus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:42:19.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LaenutatavadAsjad.cs",
+              "DocumentMoniker": "C:\\Users\\Kasutaja\\Desktop\\firmadb3\\firmadb\\Models\\LaenutatavadAsjad.cs",
+              "RelativeDocumentMoniker": "firmadb\\Models\\LaenutatavadAsjad.cs",
+              "ToolTip": "C:\\Users\\Kasutaja\\Desktop\\firmadb3\\firmadb\\Models\\LaenutatavadAsjad.cs",
+              "RelativeToolTip": "firmadb\\Models\\LaenutatavadAsjad.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:41:35.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Haigusleht.cs",
+              "DocumentMoniker": "C:\\Users\\Kasutaja\\Desktop\\firmadb3\\firmadb\\Models\\Haigusleht.cs",
+              "RelativeDocumentMoniker": "firmadb\\Models\\Haigusleht.cs",
+              "ToolTip": "C:\\Users\\Kasutaja\\Desktop\\firmadb3\\firmadb\\Models\\Haigusleht.cs",
+              "RelativeToolTip": "firmadb\\Models\\Haigusleht.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:44:55.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Frima.cs",
+              "DocumentMoniker": "C:\\Users\\Kasutaja\\Desktop\\firmadb3\\firmadb\\Models\\Frima.cs",
+              "RelativeDocumentMoniker": "firmadb\\Models\\Frima.cs",
+              "ToolTip": "C:\\Users\\Kasutaja\\Desktop\\firmadb3\\firmadb\\Models\\Frima.cs",
+              "RelativeToolTip": "firmadb\\Models\\Frima.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:43:09.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Kasutaja\\Desktop\\firmadb3\\firmadb\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "firmadb\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Kasutaja\\Desktop\\firmadb3\\firmadb\\Models\\Employee.cs",
+              "RelativeToolTip": "firmadb\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:43:38.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Ametinimetus.cs",
+              "DocumentMoniker": "C:\\Users\\Kasutaja\\Desktop\\firmadb3\\firmadb\\Models\\Ametinimetus.cs",
+              "RelativeDocumentMoniker": "firmadb\\Models\\Ametinimetus.cs",
+              "ToolTip": "C:\\Users\\Kasutaja\\Desktop\\firmadb3\\firmadb\\Models\\Ametinimetus.cs",
+              "RelativeToolTip": "firmadb\\Models\\Ametinimetus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:40:51.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240612112711_update2.cs",
+              "DocumentMoniker": "C:\\Users\\Kasutaja\\Desktop\\firmadb3\\firmadb\\Migrations\\20240612112711_update2.cs",
+              "RelativeDocumentMoniker": "firmadb\\Migrations\\20240612112711_update2.cs",
+              "ToolTip": "C:\\Users\\Kasutaja\\Desktop\\firmadb3\\firmadb\\Migrations\\20240612112711_update2.cs",
+              "RelativeToolTip": "firmadb\\Migrations\\20240612112711_update2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T11:27:12.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240612112333_teinepc.cs",
+              "DocumentMoniker": "C:\\Users\\Kasutaja\\Desktop\\firmadb3\\firmadb\\Migrations\\20240612112333_teinepc.cs",
+              "RelativeDocumentMoniker": "firmadb\\Migrations\\20240612112333_teinepc.cs",
+              "ToolTip": "C:\\Users\\Kasutaja\\Desktop\\firmadb3\\firmadb\\Migrations\\20240612112333_teinepc.cs",
+              "RelativeToolTip": "firmadb\\Migrations\\20240612112333_teinepc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T11:23:34.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240612110256_relationupdate.cs",
+              "DocumentMoniker": "C:\\Users\\Kasutaja\\Desktop\\firmadb3\\firmadb\\Migrations\\20240612110256_relationupdate.cs",
+              "RelativeDocumentMoniker": "firmadb\\Migrations\\20240612110256_relationupdate.cs",
+              "ToolTip": "C:\\Users\\Kasutaja\\Desktop\\firmadb3\\firmadb\\Migrations\\20240612110256_relationupdate.cs",
+              "RelativeToolTip": "firmadb\\Migrations\\20240612110256_relationupdate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T11:02:58.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240612101001_initialcreate.cs",
+              "DocumentMoniker": "C:\\Users\\Kasutaja\\Desktop\\firmadb3\\firmadb\\Migrations\\20240612101001_initialcreate.cs",
+              "RelativeDocumentMoniker": "firmadb\\Migrations\\20240612101001_initialcreate.cs",
+              "ToolTip": "C:\\Users\\Kasutaja\\Desktop\\firmadb3\\firmadb\\Migrations\\20240612101001_initialcreate.cs",
+              "RelativeToolTip": "firmadb\\Migrations\\20240612101001_initialcreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T10:10:02.346Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
